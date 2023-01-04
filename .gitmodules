@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-meme"]
+	path = themes/hugo-theme-meme
+	url = git@github.com:intermezzio/hugo-theme-meme.git
