@@ -1,7 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://intermezzio.github.io/cheems-loves-me/"
+publishDir = "docs/"
 title = "cheemsloves.me"
 languageCode = "en"
 hasCJKLanguage = false
