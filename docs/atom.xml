@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">cheemsloves.me</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-04T01:53:01-05:00</updated>
-    <id>https://intermezzio.github.io/cheems-loves-me/</id>
-    <link rel="alternate" type="text/html" href="https://intermezzio.github.io/cheems-loves-me/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://intermezzio.github.io/cheems-loves-me/atom.xml" />
+    <updated>2023-01-05T17:23:52-05:00</updated>
+    <id>https://cheemsloves.me/</id>
+    <link rel="alternate" type="text/html" href="https://cheemsloves.me/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://cheemsloves.me/atom.xml" />
     
     
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
