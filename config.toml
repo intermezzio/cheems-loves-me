@@ -1146,7 +1146,7 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     displayUpdatedBadge = true
     # Note: *global settings*
