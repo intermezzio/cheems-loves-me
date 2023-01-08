@@ -4,11 +4,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">cheemsloves.me</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-05T20:10:34-05:00</updated>
+    <updated>2023-01-08T01:44:21-05:00</updated>
     <id>https://cheemsloves.me/</id>
     <link rel="alternate" type="text/html" href="https://cheemsloves.me/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cheemsloves.me/atom.xml" />
     
     
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+        <entry>
+            <title type="text">Why I Joined Formula SAE Electric Motorsports</title>
+            <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/formula/" />
+            <id>https://cheemsloves.me/posts/formula/</id>
+            <updated>2023-01-08T01:43:54-05:00</updated>
+            <published>2023-01-08T01:43:34-05:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <summary type="html">write a blog post about why I joined formula sae electric motorsports
+Hello everyone! I wanted to share my experience joining Formula SAE Electric Motorsports and why I decided to get involved.
+As someone who has always been passionate about engineering and electric vehicles, joining Formula SAE was a no-brainer for me.</summary>
+            
+                <content type="html">&lt;p&gt;write a blog post about why I joined formula sae electric motorsports&lt;/p&gt;
+&lt;p&gt;Hello everyone! I wanted to share my experience joining Formula SAE Electric Motorsports and why I decided to get involved.&lt;/p&gt;
+&lt;p&gt;As someone who has always been passionate about engineering and electric vehicles, joining Formula SAE was a no-brainer for me. The opportunity to design and build a high-performance electric race car from the ground up was too good to pass up.&lt;/p&gt;
+&lt;p&gt;But what really drew me to Formula SAE was the chance to work with a team of like-minded individuals who are all striving for the same goal: to create the best electric race car possible. I love being part of a team where everyone brings their own unique skills and perspectives to the table, and where we can all learn from each other.&lt;/p&gt;
+&lt;p&gt;In addition to the hands-on engineering experience, Formula SAE has also given me the opportunity to develop my leadership and teamwork skills. Being part of a project of this magnitude requires a lot of collaboration, communication, and problem-solving, and I have learned so much from working with my teammates.&lt;/p&gt;
+&lt;p&gt;Overall, joining Formula SAE Electric Motorsports has been an incredible experience that has allowed me to pursue my passions and grow as an engineer. I am excited to see where this journey takes me, and I am grateful to be a part of such an amazing team.&lt;/p&gt;
+&lt;p&gt;Thank you for reading, and I hope this gives you a glimpse into my experience with Formula SAE.&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://cheemsloves.me/posts/" term="posts" label="posts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">My Spring Internship at Tesla: A Recap</title>
+            <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/tesla-internship/" />
+            <id>https://cheemsloves.me/posts/tesla-internship/</id>
+            <updated>2023-01-08T01:38:27-05:00</updated>
+            <published>2023-01-08T01:35:49-05:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <summary type="html">ChatGPT: &amp;ldquo;write a blog post about what I did at my spring 2022 Tesla internship&amp;rdquo;
+Hello everyone! I wanted to share my experience interning at Tesla this past spring.
+From the moment I arrived at the Tesla campus, I was struck by the energy and excitement of the people working there.</summary>
+            
+                <content type="html">&lt;p&gt;ChatGPT: &amp;ldquo;write a blog post about what I did at my spring 2022 Tesla internship&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Hello everyone! I wanted to share my experience interning at Tesla this past spring.&lt;/p&gt;
+&lt;p&gt;From the moment I arrived at the Tesla campus, I was struck by the energy and excitement of the people working there. As an intern, I was able to work on a variety of projects that allowed me to learn and grow both personally and professionally.&lt;/p&gt;
+&lt;p&gt;One of my favorite projects was assisting with the development of a new feature for the Tesla app. It was amazing to see how my work directly impacted the end product and how it would be used by Tesla owners. I was also able to work on a research project examining the potential for solar panel installations on Tesla electric semi-trucks.&lt;/p&gt;
+&lt;p&gt;In addition to my work projects, Tesla also provided numerous learning and development opportunities for their interns. I had the chance to attend workshops on topics such as electric vehicle technology, sustainability, and company culture. I also had the opportunity to tour the Tesla factory, which was a truly once-in-a-lifetime experience.&lt;/p&gt;
+&lt;p&gt;Overall, my spring internship at Tesla was an incredible opportunity that I will always treasure. I am grateful to the Tesla team for their mentorship and support, and I can&amp;rsquo;t wait to see where my career takes me next.&lt;/p&gt;
+&lt;p&gt;Thank you for reading, and I hope this gave you a glimpse into my amazing experience at Tesla.&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://cheemsloves.me/posts/" term="posts" label="posts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
 </feed>
