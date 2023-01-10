@@ -1,7 +1,7 @@
 ---
 title: "Haikus"
 date: 2023-01-08T01:40:38-05:00
-draft: true
+draft: false
 ---
 
 ChatGPT: "write a few haikus about cheems"

@@ -1,7 +1,7 @@
 ---
 title: "A Love Letter"
 date: 2023-01-04T00:09:12-05:00
-draft: true
+draft: false
 ---
 
 I once asked ChatGPT to help me write a love letter to cheems and this is what it gave me:

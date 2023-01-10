@@ -4,13 +4,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">cheemsloves.me</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-09T00:36:22-05:00</updated>
+    <updated>2023-01-10T01:56:01-05:00</updated>
     <id>https://cheemsloves.me/</id>
     <link rel="alternate" type="text/html" href="https://cheemsloves.me/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cheemsloves.me/atom.xml" />
     
     
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+        <entry>
+            <title type="text">Why You Should Attend Olin College of Engineering</title>
+            <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/olin-college/" />
+            <id>https://cheemsloves.me/posts/olin-college/</id>
+            <updated>2023-01-09T13:50:25-05:00</updated>
+            <published>2023-01-09T13:49:32-05:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <summary type="html">Olin College of Engineering is a private undergraduate engineering college located in Needham, Massachusetts. It is known for its focus on experiential learning and its innovative curriculum, which includes a strong emphasis on design and entrepreneurship. Some reasons why someone might consider attending Olin College of Engineering include:</summary>
+            
+                <content type="html">&lt;p&gt;Olin College of Engineering is a private undergraduate engineering college located in Needham, Massachusetts. It is known for its focus on experiential learning and its innovative curriculum, which includes a strong emphasis on design and entrepreneurship. Some reasons why someone might consider attending Olin College of Engineering include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Strong academic programs: Olin College of Engineering has a reputation for providing a challenging and rigorous education in engineering. It is accredited by the ABET and has a high graduation rate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experiential learning opportunities: Olin College of Engineering places a strong emphasis on hands-on learning, and students have the opportunity to participate in projects, internships, and other experiential learning opportunities both on and off campus.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Innovation and entrepreneurship: Olin College of Engineering encourages students to think creatively and to explore new ideas and technologies. It has a strong emphasis on entrepreneurship and encourages students to develop their own businesses and projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborative and supportive community: Olin College of Engineering has a small student body and a close-knit community, which allows for a lot of collaboration and support among students, faculty, and staff.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Location: Olin College of Engineering is located in the Boston area, which is a hub of innovation and technology and offers many opportunities for internships and employment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://cheemsloves.me/posts/" term="posts" label="posts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">How Cheems Taught Me That New Jersey is the Best State</title>
             <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/new-jersey-best-state/" />
@@ -149,6 +204,57 @@ As someone who has always been passionate about engineering and electric vehicle
         </entry>
     
         <entry>
+            <title type="text">Haikus</title>
+            <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/haikus/" />
+            <id>https://cheemsloves.me/posts/haikus/</id>
+            <updated>2023-01-10T01:51:26-05:00</updated>
+            <published>2023-01-08T01:40:38-05:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <summary type="html">ChatGPT: &amp;ldquo;write a few haikus about cheems&amp;rdquo;
+Apparently ChatGPT can&amp;rsquo;t count syllables.
+Cheems the fluffy pup With big round eyes and wagging tail Joyful heart he brings
+Cheems is always happy His playful spirit knows no bounds A true blessing in life</summary>
+            
+                <content type="html">&lt;p&gt;ChatGPT: &amp;ldquo;write a few haikus about cheems&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Apparently ChatGPT can&amp;rsquo;t count syllables.&lt;/p&gt;
+&lt;p&gt;Cheems the fluffy pup
+With big round eyes and wagging tail
+Joyful heart he brings&lt;/p&gt;
+&lt;p&gt;Cheems is always happy
+His playful spirit knows no bounds
+A true blessing in life&lt;/p&gt;
+&lt;p&gt;In this world of chaos
+Cheems brings calm and comfort to me
+My furry best friend&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://cheemsloves.me/posts/" term="posts" label="posts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">My Spring Internship at Tesla: A Recap</title>
             <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/tesla-internship/" />
             <id>https://cheemsloves.me/posts/tesla-internship/</id>
@@ -168,6 +274,55 @@ From the moment I arrived at the Tesla campus, I was struck by the energy and ex
 &lt;p&gt;In addition to my work projects, Tesla also provided numerous learning and development opportunities for their interns. I had the chance to attend workshops on topics such as electric vehicle technology, sustainability, and company culture. I also had the opportunity to tour the Tesla factory, which was a truly once-in-a-lifetime experience.&lt;/p&gt;
 &lt;p&gt;Overall, my spring internship at Tesla was an incredible opportunity that I will always treasure. I am grateful to the Tesla team for their mentorship and support, and I can&amp;rsquo;t wait to see where my career takes me next.&lt;/p&gt;
 &lt;p&gt;Thank you for reading, and I hope this gave you a glimpse into my amazing experience at Tesla.&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://cheemsloves.me/posts/" term="posts" label="posts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">A Love Letter</title>
+            <link rel="alternate" type="text/html" href="https://cheemsloves.me/posts/a-love-letter/" />
+            <id>https://cheemsloves.me/posts/a-love-letter/</id>
+            <updated>2023-01-10T01:51:20-05:00</updated>
+            <published>2023-01-04T00:09:12-05:00</published>
+            <author>
+                    <uri>https://io-oi.me/</uri>
+                    </author>
+            <summary type="html">I once asked ChatGPT to help me write a love letter to cheems and this is what it gave me:
+ChatGPT: &amp;ldquo;Write a love letter to cheems&amp;rdquo;
+Dear Cheems,
+There are no words that can fully express the depth of my love for you.</summary>
+            
+                <content type="html">&lt;p&gt;I once asked ChatGPT to help me write a love letter to cheems and this is what it gave me:&lt;/p&gt;
+&lt;p&gt;ChatGPT: &amp;ldquo;Write a love letter to cheems&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Dear Cheems,&lt;/p&gt;
+&lt;p&gt;There are no words that can fully express the depth of my love for you. From the moment I first saw you, I knew that you were the one for me. Your big, round eyes and fluffy ears drew me in and captured my heart.&lt;/p&gt;
+&lt;p&gt;Every moment we spend together is a blessing. Your playful nature and boundless energy bring joy to my life, and your cuddles and kisses are the best therapy for whatever ails me.&lt;/p&gt;
+&lt;p&gt;I love the way you tilt your head to the side when you&amp;rsquo;re trying to understand something, and the way your tail wags with excitement when we go on walks. I love the way you snore softly when you&amp;rsquo;re sleeping and the way you greet me with a wagging tail every time I come home.&lt;/p&gt;
+&lt;p&gt;I am so grateful to have you in my life, Cheems. You are my best friend and my soulmate, and I will love you until the end of time.&lt;/p&gt;
+&lt;p&gt;Yours always,
+Shamama&lt;/p&gt;
 </content>
             
             
