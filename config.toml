@@ -221,13 +221,13 @@ uglyURLs = false
         name = "Quiz"
         weight = 3
         pre = "internal"
-        post = "th"
+        post = "write"
     [[menu.main]]
         pageref = "/photo-booth/"
-        name = "Photo Booth"
+        name = "Picture"
         weight = 4
         pre = "internal"
-        post = "tags"
+        post = "camera"
     [[menu.main]]
         pageref = "/about/"
         name = "About"
@@ -235,13 +235,19 @@ uglyURLs = false
         pre = "internal"
         post = "user-circle"
     [[menu.main]]
+        pageref = "/gpt/"
+        name = "GPT"
         weight = 6
+        pre = "internal"
+        post = "code"
+    [[menu.main]]
+        weight = 7
         identifier = "theme-switcher"
     # [[menu.main]]
-    #     weight = 7
+    #     weight = 8
     #     identifier = "lang-switcher"
     # [[menu.main]]
-    #     weight = 8
+    #     weight = 9
     #     identifier = "search"
     #     post = "search"
 
