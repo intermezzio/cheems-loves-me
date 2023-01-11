@@ -4,8 +4,6 @@ date: 2023-01-08T01:35:49-05:00
 draft: false
 ---
 
-ChatGPT: "write a blog post about what I did at my spring 2022 Tesla internship"
-
 Hello everyone! I wanted to share my experience interning at Tesla this past spring.
 
 From the moment I arrived at the Tesla campus, I was struck by the energy and excitement of the people working there. As an intern, I was able to work on a variety of projects that allowed me to learn and grow both personally and professionally.

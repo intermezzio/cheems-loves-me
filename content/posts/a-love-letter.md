@@ -4,10 +4,6 @@ date: 2023-01-04T00:09:12-05:00
 draft: false
 ---
 
-I once asked ChatGPT to help me write a love letter to cheems and this is what it gave me:
-
-ChatGPT: "Write a love letter to cheems"
-
 Dear Cheems,
 
 There are no words that can fully express the depth of my love for you. From the moment I first saw you, I knew that you were the one for me. Your big, round eyes and fluffy ears drew me in and captured my heart.

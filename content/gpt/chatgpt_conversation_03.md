@@ -144,7 +144,7 @@ Thank you for reading, and I hope this gives you a glimpse into my experience wi
 
 Here is an example of HTML code that can be used to create a personality quiz:
 
-```php
+```html
 <html>
   <head>
     <title>Personality Quiz</title>
@@ -181,7 +181,7 @@ can you write the javascript for that html code that extracts the answers?
 
 Yes, here is an example of JavaScript code that can be used to extract the answers from the HTML code I provided in the previous message:
 
-```css
+```javascript
 function getAnswers() {
   var answers = [];
   var question1 = document.querySelector('input[name="question1"]:checked').value;
@@ -199,7 +199,7 @@ This function uses the querySelector method to select the value of the selected 
 
 To use this function, you can call it when the form is submitted, like this:
 
-```php
+```html
 <form onsubmit="getAnswers()">
 
 ```
@@ -215,7 +215,7 @@ To prevent the page from reloading when the form is submitted, you can use the p
 
 Here is an example of how you can modify the getAnswers function from the previous message to prevent the page from reloading:
 
-```css
+```javascript
 function getAnswers(event) {
   event.preventDefault();
   var answers = [];
@@ -234,7 +234,7 @@ The preventDefault method cancels the default action of the form submission, whi
 
 You will also need to update the form element to pass the event object to the getAnswers function, like this:
 
-```php
+```html
 <form onsubmit="getAnswers(event)">
 
 ```

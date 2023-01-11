@@ -4,8 +4,6 @@ date: 2023-01-08T01:50:37-05:00
 draft: false
 ---
 
-ChatGPT: write a blog post about how Cheems taught me that New Jersey is the best state despite my prior beliefs
-
 Hello everyone! I wanted to share a special experience I had with my furry best friend, Cheems, that completely changed my perspective on a certain place.
 
 Growing up, I had always heard a lot of negative things about the state of New Jersey. It was often portrayed as a dirty, industrial, and uninteresting place, and I never really gave it much thought.

@@ -4,8 +4,6 @@ date: 2023-01-08T01:43:34-05:00
 draft: false
 ---
 
-write a blog post about why I joined formula sae electric motorsports
-
 Hello everyone! I wanted to share my experience joining Formula SAE Electric Motorsports and why I decided to get involved.
 
 As someone who has always been passionate about engineering and electric vehicles, joining Formula SAE was a no-brainer for me. The opportunity to design and build a high-performance electric race car from the ground up was too good to pass up.

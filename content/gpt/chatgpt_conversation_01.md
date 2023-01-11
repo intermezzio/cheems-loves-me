@@ -11,7 +11,7 @@ Write HTML code that lets you upload a picture and photoshops a picture of cheem
 
 Here is an example of HTML code that allows you to upload a picture and displays a photoshopped version of it with a picture of Cheems and the text "cheemsloves.me" in front of it:
 
-```php
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -109,7 +109,7 @@ can you change the html code to use this javascript?
 
 Sure! Here is an example of HTML code that includes the JavaScript code above to allow the user to upload a picture and display a photoshopped version of it with a picture of Cheems and the text "cheemsloves.me" in front of it:
 
-```php
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -385,7 +385,7 @@ can you alter the html and javascript so that it creates a popup with the image 
 
 Certainly! Here is an example of HTML and JavaScript code that creates a modal popup with the photoshopped image instead of displaying it on the page:
 
-```php
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -457,7 +457,7 @@ can you do the same thing but with inline css instead?
 
 Certainly! Here is an example of HTML and JavaScript code that creates a modal popup with the photoshopped image and uses inline CSS styles instead of a separate stylesheet:
 
-```php
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -76,7 +76,7 @@ can you take this quiz and turn it into an html form with javascript that prints
 
 Sure! Here is an HTML form version of the quiz with JavaScript that will print the result to the console:
 
-```php
+```html
 <form id="cheem-quiz">
   <h3>How much do you like cheems?</h3>
   <label for="q1">1. How often do you think about cheems?</label><br>
@@ -128,7 +128,7 @@ Can you write the rest of the javascript for that form?
 
 Certainly! Here is the rest of the JavaScript code to complete the quiz form:
 
-```css
+```html
 <script>
 function scoreQuiz() {
   var score = 0;
@@ -162,7 +162,7 @@ Instead, can you print the result of the quiz in a div element?
 
 Certainly! Here is the revised JavaScript code that will print the result of the quiz in a div element:
 
-```css
+```html
 <script>
 function scoreQuiz() {
   var score = 0;
@@ -197,7 +197,7 @@ Can you instead have the Javascript code tell the user how much they like cheems
 
 Certainly! Here is the revised JavaScript code that will print a message to the user based on their score:
 
-```php
+```html
 <script>
 function scoreQuiz() {
   var score = 0;
@@ -240,7 +240,7 @@ Can you make the html quiz longer?
 
 Certainly! Here is a longer version of the quiz with additional questions:
 
-```php
+```html
 <form id="cheem-quiz">
   <h3>How much do you like cheems?</h3>
   <label for="q1">1. How often do you think about cheems?</label><br>
@@ -287,7 +287,7 @@ Can you finish the rest of the code snippet?
 
 Certainly! Here is the rest of the quiz:
 
-```php
+```html
 <form id="cheem-quiz">
   <h3>How much do you like cheems?</h3>
   <label for="q1">1. How often do you think about cheems?</label><br>
@@ -325,7 +325,7 @@ Can you write the quiz skipping questions 1-5?
 
 Certainly! Here is the quiz with the first five questions removed:
 
-```php
+```html
 <form id="cheem-quiz">
   <h3>How much do you like cheems?</h3>
   <label for="q6">6. Have you ever visited a cheem in person?</label><br>
@@ -354,7 +354,7 @@ Can you write the quiz skipping questions 1-7?
 
 Certainly! Here is the quiz with the first seven questions removed:
 
-```php
+```html
 <form id="cheem-quiz">
   <h3>How much do you like cheems?</h3>
   <label for="q8">8. How do you feel when you see someone else with a cheem?</label><br>
@@ -381,7 +381,7 @@ Can you write the quiz skipping questions 1-9?
 
 Certainly! Here is the quiz with the first nine questions removed:
 
-```php
+```html
 <form id="cheem-quiz">
   <h3>How much do you like cheems?</h3>
   <label for="q10">10. How much do you enjoy learning about cheems?</label><br>
@@ -416,7 +416,7 @@ can you rewrite the scoring function for the longer quiz?
 
 Certainly! Here is the revised scoring function that can be used with the longer version of the quiz:
 
-```css
+```javascript
 function scoreQuiz() {
   var score = 0;
   var form = document.getElementById("cheem-quiz");
@@ -444,8 +444,12 @@ function scoreQuiz() {
 
 ```
 
-### You
-Here is the revised scoring function that can be used with the longer version of the quiz:Copy codefunction scoreQuiz() {
+### ChatGPT
+
+Here is the revised scoring function that can be used with the longer version of the quiz:
+
+```javascript
+function scoreQuiz() {
   var score = 0;
   var form = document.getElementById("cheem-quiz");
   
@@ -471,5 +475,7 @@ Here is the revised scoring function that can be used with the longer version of
     resultDiv.innerHTML = "You are obsessed with cheems!";
   }
 }
+```
+
 I hope this helps! Let me know if you have any questions.
 

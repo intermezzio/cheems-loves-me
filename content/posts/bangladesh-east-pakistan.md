@@ -4,8 +4,6 @@ date: 2023-01-08T01:47:32-05:00
 draft: false
 ---
 
-ChatGPT: write a blog post about why Bangladesh shouldn't be called East Pakistan
-
 The country of Bangladesh, located in South Asia, has a rich and complex history that is often misunderstood or overlooked. One common misconception is that Bangladesh should still be called East Pakistan. In this blog post, I will explain why this is not the case and why it is important to recognize Bangladesh as a distinct and sovereign nation.
 
 To understand the current situation, it is important to look at the history of the region. Prior to 1947, the area now known as Bangladesh was part of India and was predominantly Hindu. However, with the partition of India and the creation of Pakistan, the region became East Pakistan, with its capital in the western city of Karachi.

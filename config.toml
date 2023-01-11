@@ -99,7 +99,7 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    # name = "intermezzio"
+    name = "Andrew Mascillaro"
     # Email
     # email = "2b9d6zey@duck.com"
     # Motto or introduction
@@ -370,11 +370,11 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2023-01-02T18:00:00-04:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = ""
     # Note: used for Twitter Cards
 
 
@@ -824,7 +824,7 @@ uglyURLs = false
     ######################################
     # Post Description
 
-    displayPostDescription = true
+    displayPostDescription = false
 
 
     ######################################
@@ -1141,7 +1141,7 @@ uglyURLs = false
     ######################################
     # Post Copyright
 
-    enablePostCopyright = true
+    enablePostCopyright = false
 
     displayPostCopyright = true
     # Note: *global settings*
@@ -1195,7 +1195,7 @@ uglyURLs = false
     ######################################
     # Post Share
 
-    enablePostShare = true
+    enablePostShare = false
 
     displayPostShare = true
     # Note: *global settings*
@@ -1300,7 +1300,7 @@ uglyURLs = false
     displayCopyleftSymbol = false
     displayCopyrightSymbol = true
 
-    displaySiteCreatedYear = true
+    displaySiteCreatedYear = false
 
     # Leave it empty("") if you don’t want
     # the icon
@@ -1329,7 +1329,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = true
+    enableSocials = false
     # Note: see data/Socials.toml
 
 
